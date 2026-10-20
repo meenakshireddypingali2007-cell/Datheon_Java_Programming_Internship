@@ -1,0 +1,3 @@
+﻿Text analysis helps students examine how words appear in a passage. Words are counted without regard to capitalization, and punctuation separates words.
+
+Repeated words are useful in this example. The tool counts each repeated word, reports how many distinct words occur, and lists the most frequent words.
